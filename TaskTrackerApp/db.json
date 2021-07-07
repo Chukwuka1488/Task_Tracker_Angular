@@ -9,14 +9,8 @@
     {
       "text": "hey",
       "day": "7th May at 12.30pm",
-      "reminder": true,
-      "id": 3
-    },
-    {
-      "text": "hey",
-      "day": "7th May at 12.30pm",
-      "reminder": true,
-      "id": 4
+      "reminder": false,
+      "id": 5
     }
   ]
 }
