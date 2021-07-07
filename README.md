@@ -7,4 +7,4 @@ The visuals of the app is shown below:
 
 
 
-![](/images/Task-App-in-progress.png) ![](/images/TaskApp2.png) ![](/images/TaskApp3.png)
+![](TaskTrackerApp/images/Task-App-in-progress.png) ![](TaskTrackerApp/images/TaskApp2.png) ![](TaskTrackerApp/images/TaskApp3.png)
